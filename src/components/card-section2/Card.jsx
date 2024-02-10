@@ -38,7 +38,7 @@ export default function Card({ item }) {
   return (
     <StyledCard>
       <VerticalRow>
-        <Img src={`public/${icon}`} alt="" />
+        <Img src={`/${icon}`} alt="" />
         <Title>{title}</Title>
         <Text>{text}</Text>
         {/* <ButtonPill type="white">{button}</ButtonPill> */}

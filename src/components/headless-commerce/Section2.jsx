@@ -39,7 +39,7 @@ export default function Section2() {
             around creating, managing, and customizing data.
           </Text>
         </VerticalRow>
-        <Img src="public/Apifloat.gif" />
+        <Img src="/Apifloat.gif" />
       </TwoColumn>
     </VerticalSection>
   );

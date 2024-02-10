@@ -19,7 +19,7 @@ export default function Section2() {
     <VerticalSection>
       <SectionHeading>Built for businesses</SectionHeading>
       <TwoColumn>
-        <Img src="public/Layout_Products.svg" />
+        <Img src="/Layout_Products.svg" />
         <VerticalRow>
           <SmallHeading1>Intuitive for the team</SmallHeading1>
           <Para1>
@@ -29,7 +29,7 @@ export default function Section2() {
         </VerticalRow>
       </TwoColumn>
       <TwoColumn>
-        <Img src="public/Cityscape_light.svg" />
+        <Img src="/Cityscape_light.svg" />
         <VerticalRow>
           <SmallHeading1>Connect to other services</SmallHeading1>
           <Para1>
@@ -43,7 +43,7 @@ export default function Section2() {
         </VerticalRow>
       </TwoColumn>
       <TwoColumn>
-        <Img src="public/Layout_Orders.svg" />
+        <Img src="/Layout_Orders.svg" />
         <VerticalRow>
           <SmallHeading1>Insightful reporting</SmallHeading1>
           <Para1>
@@ -53,7 +53,7 @@ export default function Section2() {
         </VerticalRow>
       </TwoColumn>
       <TwoColumn>
-        <Img src="public/dashboardlocalization-.png" />
+        <Img src="/dashboardlocalization-.png" />
         <VerticalRow>
           <SmallHeading1>Multi-Merchant & Localization</SmallHeading1>
           <Para1>

@@ -45,7 +45,7 @@ export default function Section3() {
               </Button>
             </ButtonGroup>
           </VerticalRow>
-          <Img src="public/Merchants_contextual.svg" />
+          <Img src="/Merchants_contextual.svg" />
         </TwoColumn>
       </Section>
     </MarginSection>

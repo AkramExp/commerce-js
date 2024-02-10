@@ -40,7 +40,7 @@ export default function Section3() {
           </Text>
           {/* <ButtonPill type="purple">Read more</ButtonPill> */}
         </VerticalRow>
-        <Img src="public/tradvshead.jpg" />
+        <Img src="/tradvshead.jpg" />
       </TwoColumn>
     </VerticalSection>
   );

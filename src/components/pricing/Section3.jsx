@@ -33,7 +33,7 @@ export default function Section3() {
             Learn more
           </ButtonPill>
         </VerticalRow>
-        <Img src="public/abtestcechhiout__1_.png" />
+        <Img src="/abtestcechhiout__1_.png" />
       </TwoColumn>
     </Section>
   );

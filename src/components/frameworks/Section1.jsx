@@ -36,7 +36,7 @@ export default function Section1() {
           {/* <Button type="white">Documentation</Button> */}
         </ButtonGroup>
       </VerticalRow>
-      <Img src="public/Javascriptfrontendsgalore.png" />
+      <Img src="/Javascriptfrontendsgalore.png" />
     </MainSection>
   );
 }

@@ -67,13 +67,13 @@ export default function Section2() {
         <span>BRING YOUR OWN GATEWAY OR ONE-CLICK INTEGRATE WITH</span>
       </SectionHeading>
       <SectionImage>
-        <Img src="public\Razorpaywhite.svg" />
-        <Img src="public\braintreewhitenow.svg" />
-        <Img src="public\Stripewhite.svg" />
-        <Img src="public\square_logo_white.svg" />
-        <Img src="public\PayPalwhite.svg" />
-        <Img src="public\Omisegatewaywhite.svg" />
-        <Img src="public\paystackwhite.svg" />
+        <Img src="/Razorpaywhite.svg" />
+        <Img src="/braintreewhitenow.svg" />
+        <Img src="/Stripewhite.svg" />
+        <Img src="/square_logo_white.svg" />
+        <Img src="/PayPalwhite.svg" />
+        <Img src="/Omisegatewaywhite.svg" />
+        <Img src="/paystackwhite.svg" />
       </SectionImage>
     </div>
   );

@@ -27,7 +27,7 @@ export default function Section1() {
         </MainHeading>
         {/* <Button type="purple">Speak to a headless expert</Button> */}
       </VerticalRow>
-      <Img src="public/APIheadlessslice__1_.png" />
+      <Img src="/APIheadlessslice__1_.png" />
     </MainSection>
   );
 }

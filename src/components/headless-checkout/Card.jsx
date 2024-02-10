@@ -58,7 +58,7 @@ export default function Card({ item, type }) {
   return (
     <StyledCard type={type}>
       <Row>
-        <Img src={`public/${icon}.svg`} alt="" />
+        <Img src={`/${icon}.svg`} alt="" />
         <Title>{title}</Title>
       </Row>
       <Text>{text}</Text>

@@ -52,7 +52,7 @@ export default function Section6() {
           </Text>
           {/* <Button type="purple">Speak to an expert</Button> */}
         </VerticalRow>
-        <Img src="public/djkfsdaf.gif" />
+        <Img src="/djkfsdaf.gif" />
       </TwoColumn>
     </VerticalSection>
   );

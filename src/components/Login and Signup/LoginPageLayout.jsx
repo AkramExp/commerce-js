@@ -55,7 +55,7 @@ const ButtonGroup = styled.div`
 export default function LoginPageLayout() {
   return (
     <StyledLayout>
-      <Logo src="public\logo-icon.png" />
+      <Logo src="/logo-icon.png" />
 
       <StyledHeading>Login to Check Dashboard</StyledHeading>
 
@@ -93,17 +93,17 @@ export default function LoginPageLayout() {
 
       <ButtonGroup>
         <LinkButton>
-          <img src="public\fb-icon.png" alt="" />
+          <img src="/fb-icon.png" alt="" />
           Login with <span>Facebook</span>
         </LinkButton>
 
         <LinkButton>
-          <img src="public\google-icon.png" alt="" />
+          <img src="/google-icon.png" alt="" />
           Login with <span>Google</span>
         </LinkButton>
 
         <LinkButton>
-          <img src="public\github-icon.png" alt="" />
+          <img src="/github-icon.png" alt="" />
           Login with <span>GitHub</span>
         </LinkButton>
       </ButtonGroup>

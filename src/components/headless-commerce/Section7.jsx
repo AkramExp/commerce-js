@@ -29,7 +29,7 @@ export default function Section7() {
           </Text>
           {/* <ButtonPill type="dark">visit headlesscommerce.org</ButtonPill> */}
         </VerticalRow>
-        <Img src="public/hcinbrowser.png" />
+        <Img src="/hcinbrowser.png" />
       </TwoColumn>
     </VerticalSection>
   );

@@ -21,7 +21,7 @@ export default function Section6() {
           customers.
         </span>
       </SectionHeading>
-      <Img src="public\dashboard.png" />
+      <Img src="/dashboard.png" />
       <ButtonPill type="purple" onClick={() => navigate("/dashboard")}>
         Dashboard
       </ButtonPill>

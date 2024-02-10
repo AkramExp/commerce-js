@@ -17,7 +17,7 @@ export default function Section6() {
   return (
     <VerticalSection>
       <TwoColumn>
-        <Img src="public/Cityscape_good.svg" />
+        <Img src="/Cityscape_good.svg" />
         <VerticalRow>
           <SmallHeading1 type="blue">Integrate with any service</SmallHeading1>
           <Para1 type="white">

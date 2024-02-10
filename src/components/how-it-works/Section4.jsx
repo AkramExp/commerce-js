@@ -97,7 +97,7 @@ export default function Section4() {
             </Para2>
             {/* <ButtonPill type="white">View community articles</ButtonPill> */}
           </VerticalRow>
-          <Img src="public/API_final.svg" alt="" />
+          <Img src="/API_final.svg" alt="" />
         </TwoColumn>
       </Section>
     </MarginSection>

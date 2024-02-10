@@ -29,7 +29,7 @@ export default function Section3() {
     <MarginSection>
       <Section>
         <TwoColumn>
-          <Img src="public/API.svg" />
+          <Img src="/API.svg" />
           <VerticalRow>
             <SmallHeading1>Are we missing an integration?</SmallHeading1>
             <Para1>

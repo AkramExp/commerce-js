@@ -71,10 +71,10 @@ export default function Section5() {
       <SectionHeading>Build with the best</SectionHeading>
       <SmallHeading>TECHNOLOGY PARTNERS</SmallHeading>
       <ImageSection>
-        <Img src="public/contentful_partner.svg" />
-        <Img src="public/easyposparner.svg" />
-        <Img src="public/vercelpartner.svg" />
-        <Img src="public/logo-algolia-nebula-blue-full.svg" />
+        <Img src="/contentful_partner.svg" />
+        <Img src="/easyposparner.svg" />
+        <Img src="/vercelpartner.svg" />
+        <Img src="/logo-algolia-nebula-blue-full.svg" />
       </ImageSection>
     </Section>
   );

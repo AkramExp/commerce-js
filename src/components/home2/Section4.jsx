@@ -32,7 +32,7 @@ export default function Section4() {
         <span>Deliver high performance commerce applications at scale.</span>
       </SectionHeading>
       <TwoColumn>
-        <Img src="public\APIdevsupdate-__1_.png" />
+        <Img src="/APIdevsupdate-__1_.png" />
         <VerticalRow>
           <SmallHeading1 type="blue">Model</SmallHeading1>
           <Para1 type="white">
@@ -47,7 +47,7 @@ export default function Section4() {
 
       <TwoColumn>
         <Video
-          src="public\homecommercecartexp.mp4"
+          src="/homecommercecartexp.mp4"
           style={{ borderRadius: "10px" }}
         />
         <VerticalRow>
@@ -64,7 +64,7 @@ export default function Section4() {
       </TwoColumn>
 
       <TwoColumn>
-        <Img src="public\integrations-dark.svg" />
+        <Img src="/integrations-dark.svg" />
         <VerticalRow>
           <SmallHeading1 type="blue">Integrate</SmallHeading1>
           <Para1 type="white">

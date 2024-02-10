@@ -39,7 +39,7 @@ export default function Section4() {
               Headless checkout
             </ButtonPill>
           </VerticalRow>
-          <Img src="public/headlesscheckoutsingle__1_.png" />
+          <Img src="/headlesscheckoutsingle__1_.png" />
         </TwoColumn>
       </Section>
     </MarginSection>

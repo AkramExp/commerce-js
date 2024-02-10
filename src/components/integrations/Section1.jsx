@@ -35,7 +35,7 @@ export default function Section1() {
           </Button>
         </div>
       </VerticalRow>
-      <Img src="public\Integrationsforbusinesses__1_.png" />
+      <Img src="/Integrationsforbusinesses__1_.png" />
     </MainSection>
   );
 }

@@ -67,12 +67,12 @@ export default function Brands({ title }) {
         <span>{title}</span>
       </SectionHeading>
       <SectionImage>
-        <Img src="public\blume.png" />
-        <Img src="public\house-of-stole.png" />
-        <Img src="public\ira.png" />
-        <Img src="public\leon-and-george.png" />
-        <Img src="public\reid.png" />
-        <Img src="public\wholly-veggie.png" />
+        <Img src="/blume.png" />
+        <Img src="/house-of-stole.png" />
+        <Img src="/ira.png" />
+        <Img src="/leon-and-george.png" />
+        <Img src="/reid.png" />
+        <Img src="/wholly-veggie.png" />
       </SectionImage>
     </div>
   );

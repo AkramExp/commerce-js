@@ -37,7 +37,7 @@ export default function Section4() {
         </span>
       </SectionHeading>
       <TwoColumn>
-        <Img src="public/APIStackdark.svg" />
+        <Img src="/APIStackdark.svg" />
         <VerticalRow>
           <SmallHeading1 type="blue">Developer first eCommerce</SmallHeading1>
           <Para1 type="white">
@@ -55,10 +55,10 @@ export default function Section4() {
           </Para1>
           {/* <ButtonPill type="purple">Demo site</ButtonPill> */}
         </VerticalRow>
-        <Video src="public/chochopcartexp.mp4" />
+        <Video src="/chochopcartexp.mp4" />
       </TwoColumn>
       <TwoColumn>
-        <Img src="public/Cityscape_good.svg" />
+        <Img src="/Cityscape_good.svg" />
         <VerticalRow>
           <SmallHeading1 type="blue">
             Build with the tools you love
@@ -81,7 +81,7 @@ export default function Section4() {
           </Para1>
           {/* <ButtonPill type="purple">View on github</ButtonPill> */}
         </VerticalRow>
-        <Video src="public/homecommercecartexp.mp4" />
+        <Video src="/homecommercecartexp.mp4" />
       </TwoColumn>
     </VerticalSection>
   );

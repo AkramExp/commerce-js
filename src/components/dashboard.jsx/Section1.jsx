@@ -39,7 +39,7 @@ export default function Section1() {
           </Button>
         </ButtonGroup>
       </VerticalRow>
-      <Img src="public\Dashboard_Hero_Orders__1_.png" />
+      <Img src="/Dashboard_Hero_Orders__1_.png" />
     </MainSection>
   );
 }

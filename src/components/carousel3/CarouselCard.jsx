@@ -59,7 +59,7 @@ export default function CarouselCard({ item }) {
 
   return (
     <StyledCard>
-      <Icon src={`public/${icon}`} />
+      <Icon src={`/${icon}`} />
       <Text>{`"${text}"`}</Text>
       <Div>
         <Name>{name}</Name>

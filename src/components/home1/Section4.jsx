@@ -28,7 +28,7 @@ export default function Section4() {
         <span>Delight customers and drive revenue, on your own terms.</span>
       </SectionHeading>
       <TwoColumn>
-        <Img src="public\own-your-checkout.png" />
+        <Img src="/own-your-checkout.png" />
         <VerticalRow>
           <SmallHeading1>Own your checkout</SmallHeading1>
           <Para1>
@@ -45,7 +45,7 @@ export default function Section4() {
         </VerticalRow>
       </TwoColumn>
       <TwoColumn>
-        <Img src="public\composable-commerce.png" />
+        <Img src="/composable-commerce.png" />
         <VerticalRow>
           <SmallHeading1>Composable commerce integrations</SmallHeading1>
           <Para1>

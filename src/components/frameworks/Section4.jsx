@@ -17,7 +17,7 @@ export default function Section4() {
           with a framework.
         </span>
       </SectionHeading>
-      <Img src="public/Javascriptfrontends.png" />
+      <Img src="/Javascriptfrontends.png" />
     </VerticalSection>
   );
 }

@@ -35,7 +35,7 @@ export default function Section1() {
         </ButtonGroup>
       </VerticalRow>
 
-      <Img src="public\headless-checkout-main.png" />
+      <Img src="/headless-checkout-main.png" />
     </MainSection>
   );
 }

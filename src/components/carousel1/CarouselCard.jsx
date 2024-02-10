@@ -43,7 +43,7 @@ const CardText = styled.h1`
 export default function CarouselCard({ item }) {
   const { title, text, image } = item;
 
-  const src = `public/${image}`;
+  const src = `/${image}`;
 
   return (
     <Card>

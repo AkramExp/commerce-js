@@ -17,7 +17,7 @@ export default function Section3() {
         Use Commerce.js alongside your existing provider
         <span>Replatforming is optional.</span>
       </SectionHeading>
-      <Img src="public\products-orders.png" />
+      <Img src="/products-orders.png" />
     </VerticalSection>
   );
 }

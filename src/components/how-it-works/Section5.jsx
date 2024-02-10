@@ -41,7 +41,7 @@ export default function Section5() {
           <CardSection2 />
         </VerticalSection>
         <TwoColumn>
-          <Img src="public/ChopChop_demo.png" />
+          <Img src="/ChopChop_demo.png" />
           <VerticalRow>
             <SmallHeading1 type="white">
               Open source starter kit for commerce

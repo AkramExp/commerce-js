@@ -28,7 +28,7 @@ export default function Section2() {
   return (
     <Section>
       <TwoColumn>
-        <Img src="public/Product_list___Dashboard_2x.png" />
+        <Img src="/Product_list___Dashboard_2x.png" />
         <VerticalRow>
           <SmallHeading1>1. Setup your account</SmallHeading1>
           <Para1>Create a free account and start adding products.</Para1>
@@ -38,7 +38,7 @@ export default function Section2() {
         </VerticalRow>
       </TwoColumn>
       <TwoColumn>
-        <Img src="public/Sellmore.svg" />
+        <Img src="/Sellmore.svg" />
         <VerticalRow>
           <SmallHeading1>2. Start selling</SmallHeading1>
           <Para1>

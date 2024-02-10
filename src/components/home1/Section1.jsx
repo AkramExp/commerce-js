@@ -43,7 +43,7 @@ export default function Section1() {
           </Button>
         </ButtonGroup>
       </VerticalRow>
-      <Img src="public\main-section-image.png" />
+      <Img src="/main-section-image.png" />
     </MainSection>
   );
 }

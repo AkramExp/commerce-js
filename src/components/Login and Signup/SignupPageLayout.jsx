@@ -74,7 +74,7 @@ export default function SignupPageLayout() {
 
   return (
     <StyledLayout>
-      <Logo src="public\logo-icon.png" />
+      <Logo src="/logo-icon.png" />
 
       <StyledHeading>
         Create your free account
@@ -119,12 +119,12 @@ export default function SignupPageLayout() {
 
       <ButtonGroup>
         <LinkButton>
-          <img src="public\google-icon.png" alt="" />
+          <img src="/google-icon.png" alt="" />
           Login with <span>Google</span>
         </LinkButton>
 
         <LinkButton>
-          <img src="public\github-icon.png" alt="" />
+          <img src="/github-icon.png" alt="" />
           Login with <span>GitHub</span>
         </LinkButton>
       </ButtonGroup>

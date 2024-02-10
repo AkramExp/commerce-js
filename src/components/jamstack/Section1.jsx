@@ -25,7 +25,7 @@ export default function Section1() {
           </span>
         </MainHeading>
       </VerticalRow>
-      <Img src="public/jamstackfinal__1_.png" />
+      <Img src="/jamstackfinal__1_.png" />
     </MainSection>
   );
 }

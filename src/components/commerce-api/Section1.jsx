@@ -32,7 +32,7 @@ export default function Section1() {
           {/* <Button type="white">API reference</Button> */}
         </ButtonGroup>
       </VerticalRow>
-      <Img src="public/API_final.svg" />
+      <Img src="/API_final.svg" />
     </MainSection>
   );
 }

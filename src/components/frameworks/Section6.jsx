@@ -33,7 +33,7 @@ export default function Section6() {
           </span>
         </SectionHeading>
         <TwoColumn>
-          <Img src="public/APIStackdark.svg" />
+          <Img src="/APIStackdark.svg" />
           <VerticalRow>
             <SmallHeading1 type="blue">Commerce simplified</SmallHeading1>
             <Para1 type="white">

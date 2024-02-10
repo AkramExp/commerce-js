@@ -32,7 +32,7 @@ export default function Section5() {
     <VerticalSection>
       <SectionHeading>Why Commerce.js?</SectionHeading>
       <TwoColumn>
-        <Img src="public\reidcheckout.png" />
+        <Img src="/reidcheckout.png" />
         <VerticalRow>
           <SmallHeading1>Experience control</SmallHeading1>
           <Para1>
@@ -44,7 +44,7 @@ export default function Section5() {
       </TwoColumn>
       <TwoColumn>
         <Video
-          src="public\Fast_loading_checkout.mov"
+          src="/Fast_loading_checkout.mov"
           style={{ borderRadius: "10px" }}
         />
         <VerticalRow>
@@ -60,7 +60,7 @@ export default function Section5() {
         </VerticalRow>
       </TwoColumn>
       <TwoColumn>
-        <Img src="public\Cityscape_light.svg" />
+        <Img src="/Cityscape_light.svg" />
         <VerticalRow>
           <SmallHeading1>Integration freedom</SmallHeading1>
           <Para1>

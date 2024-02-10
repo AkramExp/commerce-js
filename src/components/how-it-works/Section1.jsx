@@ -38,7 +38,7 @@ export default function Section1() {
           {/* <Button type="dark">See Demo</Button> */}
         </ButtonGroup>
       </VerticalRow>
-      <Img src="public\api_isometric_light.svg" />
+      <Img src="/api_isometric_light.svg" />
     </MainSection>
   );
 }

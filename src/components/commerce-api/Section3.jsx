@@ -39,7 +39,7 @@ export default function Section3() {
             javascript framework
           </ButtonPill>
         </VerticalRow>
-        <Img src="public/API_test.png" />
+        <Img src="/API_test.png" />
       </TwoColumn>
     </VerticalSection>
   );
