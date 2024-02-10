@@ -52,8 +52,11 @@ const GloablStyles = createGlobalStyle`
     }
 
     html {
-        overflow-x: hidden;
         -webkit-tap-highlight-color: transparent;
+
+        @media screen and (max-width: 500px){
+            overflow-x: hidden;
+        }
     }
 
     .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal {

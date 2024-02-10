@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const List = styled.ul`
   padding: 0;
-  height: 20rem;
+  height: 25rem;
   position: sticky;
   top: 10rem;
   display: flex;

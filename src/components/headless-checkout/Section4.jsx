@@ -13,7 +13,7 @@ const CardSection = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 5rem;
+  gap: 3rem;
 `;
 
 export default function Section4() {

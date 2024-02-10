@@ -40,7 +40,7 @@ export default function Footer() {
     <StyledFooter>
       <FooterList />
       <BottomSection>
-        <Logo src="public/logo-white.png" />
+        <Logo src="/logo-white.png" />
       </BottomSection>
     </StyledFooter>
   );
