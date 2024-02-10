@@ -6,5 +6,5 @@ const Img = styled.img`
 `;
 
 export default function Logo() {
-  return <Img src="public\logo.png" />;
+  return <Img src="/logo.png" />;
 }
