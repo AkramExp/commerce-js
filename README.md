@@ -1,6 +1,8 @@
 # CommerceJs
 
-### Live Site - https://commercejs-akramexp.onrender.com/
+![ss1](https://github.com/AkramExp/commerce-js/blob/main/screenshots/ss1.png)
+
+#### Live Site - https://commercejs-akramexp.onrender.com/
 
 ## Descripton
 
@@ -26,13 +28,3 @@ npm install
 ```
 npm run dev
 ```
-
-## Screenshots
-
-![ss1](https://github.com/AkramExp/commerce-js/blob/main/screenshots/ss1.png)
-
-![ss2](https://github.com/AkramExp/commerce-js/blob/main/screenshots/ss2.png)
-
-![ss3](https://github.com/AkramExp/commerce-js/blob/main/screenshots/ss3.png)
-
-![ss4](https://github.com/AkramExp/commerce-js/blob/main/screenshots/ss4.png)
